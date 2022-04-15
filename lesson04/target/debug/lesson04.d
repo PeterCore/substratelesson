@@ -1,0 +1,1 @@
+/Users/zhangchun/Documents/substratelesson/lesson04/target/debug/lesson04: /Users/zhangchun/Documents/substratelesson/lesson04/src/main.rs /Users/zhangchun/Documents/substratelesson/lesson04/src/signallight.rs
